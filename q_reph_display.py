@@ -12,7 +12,7 @@ Pipeline:
        Stage 2 - Softmax-free attention redundancy scoring
   3. Early-stop when convergence is detected
 
-Author: [Your name]
+Author: Keming Hu
 """
 
 import os
